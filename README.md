@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Fitar Ahmed Siam</h1>
 <h3 align="center">Web Developer | Front-End Enthusiast | Programming Educator</h3>
 
----
-
 🌐 **About Me**
 
 - 👨‍💻 Currently building responsive and interactive web apps  
@@ -10,8 +8,6 @@
 - 🎯 Front-end focused & creative problem solver  
 - 📚 Sharing my knowledge through online programming tutorials  
 - 🛠️ Competitive programming & coding challenge lover  
-
----
 
 🛠️ **Languages and Tools I Use**
 
@@ -22,20 +18,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
----
-
 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitarahmed&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitarahmed&layout=compact&theme=radical)
-
----
 
 📫 **Connect With Me**
 
 - 📧 Email: fitarstack@gmail.com  
 - 📘 Facebook Page: [Code Master](https://www.facebook.com/profile.php?id=61559544884372)
 
----
-
-*Let’s code, create, and inspire — together!* 🚀
